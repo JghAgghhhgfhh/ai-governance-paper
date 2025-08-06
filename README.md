@@ -21,7 +21,6 @@ The system integrates AI decision-making layers with **embedded responsible enti
 .
 ├── paper/
 │   ├── ai_en.pdf     # Full English paper
-│   ├── ai_cn.pdf     # Full Chinese paper
 ├── code/
 │   └── plot_architecture.py           # Python script to generate diagram
 └── README.md

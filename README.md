@@ -28,4 +28,4 @@ The system integrates AI decision-making layers with **embedded responsible enti
 │   └── ai_governance_6modules_cn.png  # Architecture diagram (Chinese)
 ├── code/
 │   └── plot_architecture.py           # Python script to generate diagram
-└── README.md有什么要我更改的吗
+└── README.md
